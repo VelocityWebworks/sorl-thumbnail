@@ -1,5 +1,10 @@
 |travis| |pypi| |coveralls|
 
+Velocity Webworks Fork
+======================
+
+Includes support for an optional `endthumbnail` tag. To use, include `THUMBNAIL_END_TAG_REQUIRED = False` in your settings module.
+
 Thumbnails for Django.
 
 Features at a glance
